@@ -1,5 +1,5 @@
 # FifaWorldCup2018_PointTableScrap
-This is a web scrapper that can scrap points table of FIFA World Cup 2018.
+This is a web scrapper written in ```python 2.7``` that can scrap points table of FIFA World Cup 2018.
 >Credit : ESPN http://www.espn.in
 
 
