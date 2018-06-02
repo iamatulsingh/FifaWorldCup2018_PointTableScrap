@@ -1,3 +1,14 @@
+#  Developer -   Atul Singh
+#  Github    -   https://github.com/iamatulsingh
+#  Telegram  -   https://t.me/developeratul
+#  @license  -   Code and contributions have 'MIT License'
+#                More details: LICENSE
+#  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software with proper credit to original author.
+
+
+
+
+
 from bs4 import BeautifulSoup as soup
 from requests import get
 
