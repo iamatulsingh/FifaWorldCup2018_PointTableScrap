@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup as soup
 from requests import get
-import os
 
 url = 'http://www.espn.in/football/table/_/league/fifa.world'
 
@@ -86,7 +85,3 @@ for thead in html_table:
                 print '\t' + teams.text + '   ',
                 
         DIVIDE_COUNTER = DIVIDE_COUNTER + 1
-
-print '\n\n\n'
-os.system('pause')
-
